@@ -1,14 +1,14 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zaolon&theme=tokyonight&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zlorn&theme=tokyonight&show_icons=true" />
 
 ### Hi there, I'm Zhao Long.
-- Blog: [Zhao Long's Notes](https://www.zhaolong.net.cn)
+- Blog: [Zhao Long's Notes](https://zhaolong.me)
 - Email: long.zhao@88.com
 - Company: [Perfect World](https://www.wanmei.com)
 - Job: Unity Engineer
 - Location: Beijing
 
 <!--
-**Zaolon/Zaolon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Zlorn/Zlorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
